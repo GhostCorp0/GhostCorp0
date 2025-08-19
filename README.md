@@ -38,8 +38,6 @@
 ### 🔗 Connectivity & IoT
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT_Devices-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-333?style=for-the-badge)
 
 ### ⚙️ CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
