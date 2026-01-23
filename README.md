@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 > Passionate Mobile & Backend Developer with **3+ years** of experience crafting innovative, scalable solutions
 
-- 🔭 Currently working at **Simply Entertaining Apps**
+- 🔭 Currently working at **Eventstrat.ai**
 - 🌱 Exploring **Advanced Flutter Architecture**, **Jetpack Compose**, **Clean Architecture** & **Microservices**
 - 🎯 Focused on building **scalable mobile applications**, **robust APIs**, and **IoT integrations**
 - 💬 Ask me about **Flutter, Android (Compose), Firebase, Spring Boot, MVVM, Bluetooth/IoT**
