@@ -32,7 +32,7 @@
 ### 🧱 Architecture & Patterns
 ![MVVM](https://img.shields.io/badge/MVVM-Architecture-6A5ACD?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C?style=for-the-badge)
-![State Management](https://img.shields.io/badge/State_Management-Provider%20%7C%20Riverpod-009688?style=for-the-badge)
+![State Management](https://img.shields.io/badge/State_Management-Riverpod%20%7C%20BLoC-009688?style=for-the-badge)
 
 ### 🔗 Device & Hardware Integration
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
